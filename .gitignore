@@ -1,0 +1,9 @@
+# python basics
+
+__pycache__/
+
+# virtual env
+
+
+.venv/
+venv/
