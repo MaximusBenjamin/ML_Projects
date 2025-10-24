@@ -1,0 +1,31 @@
+house_id,square_feet,bedrooms,bathrooms,year_built,neighborhood,garage,lot_size,condition,price
+1,2100,3,2.0,1995,Downtown,Yes,5200,Good,385000
+2,1850,3,2.0,2005,Suburbs,Yes,6800,Excellent,420000
+3,1200,2,1.0,1978,Downtown,,4100,Fair,245000
+4,2850,4,3.0,2010,Suburbs,Yes,7500,Excellent,625000
+5,1650,3,2.0,1988,Rural,No,8900,Good,
+6,3200,5,3.5,2015,Suburbs,Yes,8200,Excellent,780000
+7,,2,1.0,1972,Downtown,No,3800,Poor,198000
+8,1950,3,2.0,1998,Suburbs,Yes,6200,Good,405000
+9,2400,4,2.5,2008,Downtown,Yes,5100,Very Good,545000
+10,1100,2,1.0,1965,Rural,No,12000,Fair,175000
+11,2650,4,3.0,2012,Suburbs,Yes,7100,Excellent,615000
+12,1850,3,2.0,1985,Downtown,No,4900,Good,368000
+13,1450,2,1.5,1992,Rural,,9800,Fair,
+14,3800,5,4.0,2018,Suburbs,Yes,9200,Excellent,925000
+15,2200,3,2.5,2003,Downtown,Yes,5400,Very Good,485000
+16,1650,3,2.0,,Suburbs,Yes,6500,Good,395000
+17,950,1,1.0,1968,Rural,No,5100,Poor,142000
+18,2100,3,2.0,2001,Suburbs,Yes,6700,Good,425000
+19,2900,4,3.0,2014,Downtown,Yes,6100,Excellent,695000
+20,1750,3,2.0,1990,Suburbs,No,6300,Fair,358000
+21,,3,2.0,1996,Rural,Yes,11500,Good,312000
+22,2350,4,2.5,2007,Suburbs,Yes,7200,Very Good,535000
+23,1550,2,1.5,1982,Downtown,No,4600,Fair,285000
+24,4200,6,4.5,2020,Suburbs,Yes,10500,Excellent,1150000
+25,1900,3,2.0,1999,Rural,No,15200,Good,285000
+26,2150,3,2.5,2004,Downtown,,5300,Good,445000
+27,1350,2,1.0,1975,Rural,No,8700,Poor,189000
+28,2500,4,3.0,2011,Suburbs,Yes,7800,Excellent,595000
+29,1800,3,2.0,1987,Downtown,Yes,5000,Fair,352000
+30,2250,3,2.5,2006,Suburbs,Yes,6900,Very Good,475000
